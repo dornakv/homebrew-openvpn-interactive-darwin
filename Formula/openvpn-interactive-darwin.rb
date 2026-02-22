@@ -2,7 +2,7 @@ class OpenvpnInteractiveDarwin < Formula
   desc "Interactive OpenVPN management script for macOS with keychain integration"
   homepage "https://github.com/dornakv/openvpn-interactive-darwin"
   url "https://github.com/dornakv/openvpn-interactive-darwin/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "a24a65d8e49b1a92453a20ad1a29e63417cbb0eafb36ad486f9195c469bc88c2"
   license :unlicense
 
   depends_on "openvpn"
